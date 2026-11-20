@@ -24,10 +24,11 @@ Study notes on the fundamentals behind backend work: how the machine runs code, 
 
 | Guide | Pages | What it covers |
 |---|---|---|
-| **[Estudo_Paradigmas_da_Programacao.pdf](Estudo_Paradigmas_da_Programacao.pdf)** | 12 | Imperative, declarative, procedural, object-oriented and functional paradigms, and how they overlap. |
-| **[Nomes_Importantes_da_Computacao.pdf](Nomes_Importantes_da_Computacao.pdf)** | 11 | The people behind the theory, machines, languages and tools, as a timeline of who contributed what. |
-| **[Componentes_do_Computador_e_a_Programacao.pdf](Componentes_do_Computador_e_a_Programacao.pdf)** | 22 | CPU, memory, storage, I/O, operating system, concurrency and networking, and what each changes in how you program a backend. |
-| **[POO_a_Fundo.pdf](POO_a_Fundo.pdf)** | 21 | Abstraction, the four pillars, composition vs. inheritance and Dependency Inversion, using an online-store example in Python. |
+| **[Estudo_Paradigmas_da_Programacao.pdf](PT-BR/Estudo_Paradigmas_da_Programacao.pdf)** | 12 | Imperative, declarative, procedural, object-oriented and functional paradigms, and how they overlap. |
+| **[Nomes_Importantes_da_Computacao.pdf](PT-BR/Nomes_Importantes_da_Computacao.pdf)** | 11 | The people behind the theory, machines, languages and tools, as a timeline of who contributed what. |
+| **[Componentes_do_Computador_e_a_Programacao.pdf](PT-BR/Componentes_do_Computador_e_a_Programacao.pdf)** | 22 | CPU, memory, storage, I/O, operating system, concurrency and networking, and what each changes in how you program a backend. |
+| **[POO_a_Fundo.pdf](PT-BR/POO_a_Fundo.pdf)** | 21 | Abstraction, the four pillars, composition vs. inheritance and Dependency Inversion, using an online-store example in Python. |
+| **[Principios_SOLID.pdf](PT-BR/Principios_SOLID.pdf)** | 14 | The five SOLID principles (SRP, OCP, LSP, ISP, DIP) with bad and good Python examples and a critical rating of each. |
 
 ---
 
